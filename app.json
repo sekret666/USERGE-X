@@ -11,9 +11,9 @@
         "Userbot",
         "Inline"
     ],
-    "repository":"https://github.com/code-rgb/USERGE-X",
-    "website":"https://github.com/code-rgb/USERGE-X",
-    "success_url":"https://t.me/userge_x",
+    "repository":"https://github.com/sekret666/userge-x",
+    "website":"https://github.com/sekret666/userge-x",
+    "success_url":"https://t.me/quliyev606",
     "env":{
         "API_ID":{
             "description":"Get this value from https://my.telegram.org"
